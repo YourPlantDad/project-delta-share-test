@@ -1,2 +1,3 @@
 Clone project
-in root folder exectute `npm init`
+in root folder exectute `npm install`
+npx playwright test tests
