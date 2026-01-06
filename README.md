@@ -1,2 +1,2 @@
-# project-delta-share-test
-
+Clone project
+in root folder exectute `npm init`
